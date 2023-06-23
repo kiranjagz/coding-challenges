@@ -17,6 +17,12 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Find.Valid.Gas.Station", "F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find.Valid.Gas.Station", "..\Find.Valid.Gas.Station\Find.Valid.Gas.Station.csproj", "{797AFA38-E5A7-42C7-AE40-5A247733855B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{933D4A84-6010-42D5-BF70-F8DA04DB2EA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OOP", "OOP", "{D43ECE6A-D89E-4614-94EB-B9B541657524}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple.Arrays", "..\Simple.Arrays\Simple.Arrays.csproj", "{E0D06290-5EC5-4A65-9328-A3427BBC21E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +45,10 @@ Global
 		{797AFA38-E5A7-42C7-AE40-5A247733855B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{797AFA38-E5A7-42C7-AE40-5A247733855B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{797AFA38-E5A7-42C7-AE40-5A247733855B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0D06290-5EC5-4A65-9328-A3427BBC21E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0D06290-5EC5-4A65-9328-A3427BBC21E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0D06290-5EC5-4A65-9328-A3427BBC21E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0D06290-5EC5-4A65-9328-A3427BBC21E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -47,6 +57,7 @@ Global
 		{BC9A0CAD-7DD3-44FD-BC61-642A7CF8EB54} = {BF808915-A73E-4150-A82C-227E70CD5150}
 		{FEB0A518-595F-4F59-9E39-3ECB9548C8C8} = {376F0A30-DF9B-4383-9357-59728C52E058}
 		{797AFA38-E5A7-42C7-AE40-5A247733855B} = {32936F4F-72F3-48C7-9A8B-EFE44A66079A}
+		{E0D06290-5EC5-4A65-9328-A3427BBC21E6} = {933D4A84-6010-42D5-BF70-F8DA04DB2EA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCCC56B8-3F3A-44C1-98B9-29FF2B63632A}
