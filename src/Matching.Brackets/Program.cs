@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Matching.Brackets
 {
-    class BracketMatcher
+    internal class Program
     {
         static void Main()
         {
