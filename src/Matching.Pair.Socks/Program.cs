@@ -35,7 +35,7 @@
 
                 total += pairs;
 
-                Console.WriteLine($"{kvp.Key} has a total of pairs: {pairs}");
+                Console.WriteLine($"{kvp.Key.ToUpper()} has a total of pairs: {pairs}");
             }
 
             Console.WriteLine("Total number of pairs: " + total);
