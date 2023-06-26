@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matching.Pair.Socks", "..\M
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Matching.Socks.Pair", "Matching.Socks.Pair", "{719534F7-6022-428A-9484-7C93DD4B9658}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenSumOfNumbers", "..\EvenSumOfNumbers\EvenSumOfNumbers.csproj", "{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{2E1D465C-7AE5-4FC6-875A-29B1B9E181CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2E1D465C-7AE5-4FC6-875A-29B1B9E181CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2E1D465C-7AE5-4FC6-875A-29B1B9E181CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -118,6 +124,7 @@ Global
 		{DE53ED5B-0469-4037-84EA-C0A708D58B5F} = {933D4A84-6010-42D5-BF70-F8DA04DB2EA9}
 		{EC96F7D5-725E-4C0E-B029-9F56383CC5EC} = {933D4A84-6010-42D5-BF70-F8DA04DB2EA9}
 		{2E1D465C-7AE5-4FC6-875A-29B1B9E181CA} = {719534F7-6022-428A-9484-7C93DD4B9658}
+		{1F8AD095-8F7C-4675-9B51-A4756F8D5FDF} = {933D4A84-6010-42D5-BF70-F8DA04DB2EA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BCCC56B8-3F3A-44C1-98B9-29FF2B63632A}
