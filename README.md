@@ -2,7 +2,7 @@
 
 ![example workflow](https://github.com/kiranjagz/coding-challenges/actions/workflows/dotnet.yml/badge.svg)
 
-Doing coding challenges in my spare time
+Doing some coding challenges in my spare time.
 
 # Contributors
 
