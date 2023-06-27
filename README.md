@@ -1,2 +1,13 @@
 # coding-challenges
-Doing coding challenges
+
+![example workflow](https://github.com/kiranjagz/coding-challenges/actions/workflows/dotnet.yml/badge.svg)
+
+Doing coding challenges in my spare time
+
+# Contributors
+
+- Kiran Jagathal (Owner) :sunglasses:
+
+## License
+
+None
