@@ -8,7 +8,7 @@ namespace Matching.Brackets
         static void Main()
         {
             //string input = "(c([od]er)) b(yt[e])";
-            string input = "(())";
+            string input = "one(bracket)";
 
             int matchingPairsCount = CountMatchingBrackets(input);
 
@@ -32,6 +32,10 @@ namespace Matching.Brackets
                     {
                         stack.Pop();
                         matchingPairsCount++;
+                    }
+                    else
+                    {
+                        return 0;
                     }
                 }
             }
