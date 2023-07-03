@@ -1,10 +1,9 @@
-﻿namespace Coding.Challenges
+﻿using System;
+
+class Program
 {
-    internal class Program
+    static void Main()
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("This program is used to solve some coding challenges as best that I can");
-        }
+        Console.WriteLine("Coding challenge");
     }
 }
